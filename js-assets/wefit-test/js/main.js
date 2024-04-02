@@ -33,7 +33,7 @@ const handleHeaderStyle = () => {
   }
 
   if (divider) {
-    divider.style.borderTopColor = "#fff"
+    divider.style.borderTopColor = "#FFFFF33"
   }
 }
 
